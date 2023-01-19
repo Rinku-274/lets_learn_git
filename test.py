@@ -1,5 +1,4 @@
 a = 5
 b = 6
 c = a + b
-print('Result of the sum is')
-print(c)
+print('Result of the sum is ' +str(c))
